@@ -1,0 +1,6 @@
+{
+  "name": "Similia POS - Homoeopathic Clinic & Dispensary POS",
+  "description": "Professional Point of Sale and inventory system for homoeopathic clinics with RBAC, GST management, thermal and A4 invoices, real-time multi-device synchronization, and financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
